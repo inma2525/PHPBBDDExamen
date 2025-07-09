@@ -1,7 +1,7 @@
 <?php
 define("DB_HOST", "localhost");
-define("DB_USUARIO", "seneca");
-define('DB_PASSWORD', '1234');
+define("DB_USUARIO", "root");
+define('DB_PASSWORD', '');
 define("DB_NOMBRE", "seneca");
 
 // iniciar sesión en PHP
